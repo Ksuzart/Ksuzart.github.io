@@ -8,27 +8,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-### What I like to do
+# What I like to do
 - Dance
 - Do sports
 - Work
 
-### What food I like the most
+## What food I like the most
 1. Brazilian food
 2. German food
 3. Food with curry
 
+### What I do not like
 **Bold** and _Italic_ and `Code` text
 I do not like to **cook** my own food.
 
-
+```markdown
+Syntax highlighted code block
+**Hahaha**
 [Link](url) and ![Image](src)
 ```
 
