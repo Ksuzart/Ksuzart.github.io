@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
 You can use the [editor on GitHub](https://github.com/Ksuzart/Ksuzart.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. And here we go with all friends.
 
-### Markdown
+### History of my Github Page
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,13 +15,19 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+What I like to do
+- Dance
+- Do sports
+- Work
 
-1. Numbered
-2. List
+What food I like the most
+1. Brazilian food
+2. German food
+3. Food with curry
 
 **Bold** and _Italic_ and `Code` text
+I do not like to **cook** my own food.
+
 
 [Link](url) and ![Image](src)
 ```
