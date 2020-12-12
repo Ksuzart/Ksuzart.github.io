@@ -32,7 +32,7 @@ Syntax highlighted code block
 ### This is a markdown box
 ```
 ### Sources used when I muss cook
-[Link](url) and ![Image](src)
+[Link](https://www.chefkoch.de/) and ![image](cook.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
