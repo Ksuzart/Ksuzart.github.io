@@ -7,7 +7,7 @@ I started  creating this page about me on Saturday 11 December 2020.
 
 ## What I like to do
 - Dance
-- Do sports
+- Sports
 - Work
 
 ## What food I like the most
