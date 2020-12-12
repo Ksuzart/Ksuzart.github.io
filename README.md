@@ -16,14 +16,14 @@ The secrets of cooking edible food despite lack of interest and knowledge in cul
 # What I do not like
 - I do not like to **cook** 
 - I do not like to cook **my own** food
-- I do not like to clean the kitchen after cooking, but I do it, of course
+- I do not like to clean the kitchen, but I do it, of course
 - I do not like _boring_ people, but this is another aspect of me
 
 # What I like to do
 - Dance
-- Sports
+- Fitness
 - Learn new things, apart from cooking
-- Baking. Yes, unlike cooking, **baking is an exact science**. Cooking is, as mentioned above, an **art**
+- Baking. Unlike cooking, **baking is an exact science**. Cooking is, as mentioned above, an **art**
 
 ```markdown
 Hahaha, I will keep this here, so that I do not forget how to code such a framed text. I will get there some day.  
