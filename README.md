@@ -31,7 +31,8 @@ Syntax highlighted code block
 ## What makes up a boring person?
 ```
 ## Sources used when I must cook
-[Chefkoch](https://www.chefkoch.de/) and ![This not me](cook.jpg)
+[Chefkoch](https://www.chefkoch.de/) is a great source that I use
+![This not me](cook.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
