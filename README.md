@@ -33,7 +33,7 @@ Hahaha, I will keep this here, so that I do not forget how to code such a framed
 
 ![Image](cook.jpg)   The person in the picture is not me. Indeed, I would never look that happy when cooking. 
 
-[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lark.com%2Fblog%2Ffive-reasons-why-you-can-beat-the-excuses-and-cook%2F&psig=AOvVaw27CsK4y8u-dkgSLJFc0l0Q&ust=1607882504735000&source=images&cd=vfe&ved=2ahUKEwiz2Madg8ntAhUS4aQKHQSDCqsQr4kDegUIARDXAQ)
+[Source of the picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lark.com%2Fblog%2Ffive-reasons-why-you-can-beat-the-excuses-and-cook%2F&psig=AOvVaw27CsK4y8u-dkgSLJFc0l0Q&ust=1607882504735000&source=images&cd=vfe&ved=2ahUKEwiz2Madg8ntAhUS4aQKHQSDCqsQr4kDegUIARDXAQ)
 
 
 
