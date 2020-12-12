@@ -5,11 +5,6 @@ This my  first webpage. I will use it to give some key information about me rega
 
 I started  creating this page about me on Saturday 11 December 2020.
 
-## What I like to do
-- Dance
-- Sports
-- Work
-
 ## What food I like the most
 1. Brazilian food
 2. German food
@@ -19,6 +14,11 @@ I started  creating this page about me on Saturday 11 December 2020.
 - I do not like to **cook** 
 - I do not my like to cook my **own** food
 - I do not like _boring_ people
+
+## What I like to do
+- Dance
+- Sports
+- Work
 
 ```markdown
 Hahaha, I will keep this here, so that I do not forget how to code such a framed text  
