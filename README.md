@@ -5,7 +5,7 @@ This my  first webpage. I will use it to give some key information about me rega
 
 I started creating this page about me on Saturday 11 December 2020 during my first ever class on how to program a webpage. Github is only one of the nice tools I learned about today.
 
-The secrets of cooking edible food despite lack of interest and knowledge in culinary arts sounded like an interesting topic to discuss. I am sure there are millions of like-minded people out there, who knows exactly what I am talking about.   
+The secrets of cooking edible food despite lack of interest and knowledge in culinary arts sounded like an interesting topic to discuss. I am sure there are millions of like-minded people out there, who know exactly what I am talking about.   
 
 # What food I like the most
 1. Freshly cooked food
