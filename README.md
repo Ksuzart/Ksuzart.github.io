@@ -16,17 +16,16 @@ I started  creating this page about me on Saturday 11 December 2020.
 3. Food with curry
 
 ## What I do not like
-**Bold** and _Italic_ and `Code` text
 - I do not like to **cook** 
 - I do not my like to cook my **own** food
 - I do not like _boring_ people
 
 ```markdown
-Hahaha, I will keep this here, so that I do not forget how to code it  
+Hahaha, I will keep this here, so that I do not forget how to code such a framed text  
 ```
 ## Sources used when I must cook
 [Chefkoch](https://www.chefkoch.de/) is a great source that I use
-![This not me](cook.jpg)
+![This not me, by the way](cook.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
