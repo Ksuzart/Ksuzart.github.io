@@ -28,10 +28,10 @@ I started  creating this age on Saturday 11 December 2020.
 Syntax highlighted code block
 **Hahaha**  
 
-### What makes up a boring person?
+## What makes up a boring person?
 ```
 ## Sources used when I must cook
-[Link](https://www.chefkoch.de/) and ![image](cook.jpg)
+[Chefkoch](https://www.chefkoch.de/) and ![This not me](cook.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
