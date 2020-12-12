@@ -1,12 +1,9 @@
+
 ### Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Ksuzart/Ksuzart.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This my  first webpage. I will use it to give some key information about me regarding cooking. Indeed I am probably one of the few people I know who does not know how to cook, does not like to cook, but that has been cooking regularly for the last 18 years.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. And here we go with all friends.
-
-## History of my Github Page
-
-I started  creating this age on Saturday 11 December 2020.
+I started  creating this page about me on Saturday 11 December 2020.
 
 ## What I like to do
 - Dance
@@ -21,14 +18,12 @@ I started  creating this age on Saturday 11 December 2020.
 ## What I do not like
 **Bold** and _Italic_ and `Code` text
 - I do not like to **cook** 
-- I do not my like to cook my **own** food.
+- I do not my like to cook my **own** food
 - I do not like _boring_ people
 
 ```markdown
 Syntax highlighted code block
 **Hahaha**  
-
-## What makes up a boring person?
 ```
 ## Sources used when I must cook
 [Chefkoch](https://www.chefkoch.de/) is a great source that I use
