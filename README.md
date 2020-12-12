@@ -27,7 +27,7 @@ Hahaha, I will keep this here, so that I do not forget how to code such a framed
 [Chefkoch](https://www.chefkoch.de/) is a great source of recipes when I have no idea what to cook. I like to use the search tool by entering the ingredients I have at home. I order the search results based on the scores given by other users (who hopefully know how to cook), and choose one of the best scored recipes.   
 
 ![Image](cook.jpg)
-The person in this picture is not me. Indeed, I would never look that happy when cooking.
+The person in the picture is not me. Indeed, I would never look that happy when cooking.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
