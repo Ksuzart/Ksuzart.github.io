@@ -15,12 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-What I like to do
+### What I like to do
 - Dance
 - Do sports
 - Work
 
-What food I like the most
+### What food I like the most
 1. Brazilian food
 2. German food
 3. Food with curry
