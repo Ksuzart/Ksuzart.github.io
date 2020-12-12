@@ -8,11 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-# Header 1
-## Header 2
-### Header 3
-
 # What I like to do
 - Dance
 - Do sports
@@ -25,7 +20,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### What I do not like
 **Bold** and _Italic_ and `Code` text
-I do not like to **cook** my own food.
+I do not like to **cook** my `own` food.
+I do not like _boring_ people
+
 
 ```markdown
 Syntax highlighted code block
