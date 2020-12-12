@@ -31,8 +31,10 @@ Hahaha, I will keep this here, so that I do not forget how to code such a framed
 # Sources used when I must cook
 [Chefkoch](https://www.chefkoch.de/) is a great source of recipes when I have no idea what to cook. I like to use the search tool by entering the ingredients I have at home. Then I order the search results based on the scores given by other users (who hopefully know how to cook), and choose one of the best scored recipes.   
 
-![Image](cook.jpg) [Source:] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lark.com%2Fblog%2Ffive-reasons-why-you-can-beat-the-excuses-and-cook%2F&psig=AOvVaw27CsK4y8u-dkgSLJFc0l0Q&ust=1607882504735000&source=images&cd=vfe&ved=2ahUKEwiz2Madg8ntAhUS4aQKHQSDCqsQr4kDegUIARDXAQ)
-The person in the picture is not me. Indeed, I would never look that happy when cooking.
+![Image](cook.jpg)   The person in the picture is not me. Indeed, I would never look that happy when cooking. 
+
+Picture source:(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lark.com%2Fblog%2Ffive-reasons-why-you-can-beat-the-excuses-and-cook%2F&psig=AOvVaw27CsK4y8u-dkgSLJFc0l0Q&ust=1607882504735000&source=images&cd=vfe&ved=2ahUKEwiz2Madg8ntAhUS4aQKHQSDCqsQr4kDegUIARDXAQ)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
