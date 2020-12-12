@@ -16,7 +16,7 @@ The secrets of cooking edible food despite lack of interest and knowledge in cul
 # What I do not like
 - I do not like to **cook** 
 - I do not my like to cook my **own** food
-- I do not like to clean the kitchen after cook, but I do it, of course
+- I do not like to clean the kitchen after cooking, but I do it, of course
 - I do not like _boring_ people, but this is another aspect of me
 
 # What I like to do
