@@ -24,8 +24,10 @@ I started  creating this page about me on Saturday 11 December 2020.
 Hahaha, I will keep this here, so that I do not forget how to code such a framed text  
 ```
 ## Sources used when I must cook
-[Chefkoch](https://www.chefkoch.de/) is a great source that I use
-![This not me, by the way](cook.jpg)
+[Chefkoch](https://www.chefkoch.de/) is a great source that I use when I have no idea what to cook.
+
+![Image](cook.jpg)
+The person in this picture is not me.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
