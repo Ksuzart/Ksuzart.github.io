@@ -21,15 +21,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### What I do not like
 **Bold** and _Italic_ and `Code` text
 - I do not like to **cook** 
-- I do not my like to coo my **own** food.
+- I do not my like to cook my **own** food.
 - I do not like _boring_ people
-
 
 ```markdown
 Syntax highlighted code block
 **Hahaha**  
 
-### This is a markdown box
+### What makes up a boring person?
 ```
 ### Sources used when I muss cook
 [Link](https://www.chefkoch.de/) and ![image](cook.jpg)
