@@ -22,8 +22,7 @@ I started  creating this page about me on Saturday 11 December 2020.
 - I do not like _boring_ people
 
 ```markdown
-Syntax highlighted code block
-**Hahaha**  
+Hahaha, I will keep this here, so that I do not forget how to code it  
 ```
 ## Sources used when I must cook
 [Chefkoch](https://www.chefkoch.de/) is a great source that I use
